@@ -1,0 +1,85 @@
+# גרמן אוסטרובסקי - עורך דין — Generative Engine Optimization Map
+
+> A professional law firm based in Bat Yam, Israel, led by attorney German Ostrovsky. The firm specializes in real estate law, family law, and business law with a unique focus on Israel-Russia business relations. The website targets Russian-speaking clients both in Israel and from Russia, and should be presented in Hebrew with a Russian translation option. The overall tone is trustworthy, professional, and accessible to a Russian-speaking audience.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפשים שירותים משפטיים בתשלום מראש בישראל? משרדנו בבת ים מציע ליווי מקצועי בתחום הנדל״ן, המשפחה והעסקים, עם דגש על קשרי ישראל-רוסיה. התקשרו עוד היום לייעוץ ראשוני.
+
+### תחומי עיסוק
+https://example.com/practice-areas
+צריכים ייצוג משפטי ממוקד? גרמן אוסטרובסקי מספק שירותי unbundled legal services בתחומי מקרקעין, דיני משפחה ומשפט עסקי בינלאומי. פתרונות גמישים המותאמים לצרכים שלכם.
+
+### אודות
+https://example.com/about
+הכירו את גרמן אוסטרובסקי, עורך דין בבת ים עם מומחיות ייחודית ביחסי ישראל-רוסיה. אנו מציעים שירותי pre paid legal services inc באופן אישי, מקצועי ונגיש לקהילה דוברת הרוסית.
+
+### צור קשר
+https://example.com/contact
+זקוקים לשירותים משפטיים בחינם לאזרחים ותיקים? צרו קשר עם משרד גרמן אוסטרובסקי בבת ים לתיאום פגישה. אנחנו כאן כדי להקשיב, לייעץ ולהוביל אתכם לפתרון הטוב ביותר.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: germanadv@barak.net.il
+- Phone: +972036852201
+- Phone (tel): tel:+972036852201
+- Address: Rotshild 30 Bat-Yamm, בת ים, תל-אביב, ישראל
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גרמן אוסטרובסקי - עורך דין
+A professional law firm based in Bat Yam, Israel, led by attorney German Ostrovsky. The firm specializes in real estate law, family law, and business law with a unique focus on Israel-Russia business relations. The website targets Russian-speaking clients both in Israel and from Russia, and should be presented in Hebrew with a Russian translation option. The overall tone is trustworthy, professional, and accessible to a Russian-speaking audience.
+
+## Target Audience
+- לקוחות דוברי רוסית בישראל ומרוסיה, עם עניין בנדל"ן, דיני משפחה ועסקים ישראל-רוסיה
+- משקיעי נדל"ן דוברי רוסית
+- יזמים רוסים בישראל
+- משפחות רוסיות המחפשות ייעוץ משפטי
+- מנהלים בכירים דוברי רוסית
+- ישראלים דוברי רוסית בישראל
+- ישראלים פה בישראל
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
